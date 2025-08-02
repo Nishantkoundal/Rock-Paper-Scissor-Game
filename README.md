@@ -22,8 +22,3 @@ The player competes against the computer, which makes random choices.
 2. The computer randomly picks its move.
 3. The result (win/lose/draw) and scores are displayed instantly.
 
-## 📁 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Nishantkoundal/rock-paper-scissors.git
